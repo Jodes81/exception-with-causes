@@ -1,0 +1,8 @@
+{
+    "name": "jodes/exception-with-causes",
+    "autoload": {
+        "psr-4": {
+            "Jodes\\ExceptionWithCauses\\": "src"
+        }
+    }
+}
